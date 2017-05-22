@@ -19,7 +19,7 @@ A word A day
 ### perception 知觉 感知
 - Donald Trump might not turn out to be a bad leader, but public perception about him at the moment is not so great. 
 
-### potential 潜力，潜能
+### potential 潜力，潜能 n. 潜在的 adj.
 - The risk control system in Amazon reduces the potential for frauds. 
 - Overcoming difficulties can help us reach our highest potential.
 - We should reach out to all our potential customers (reach out to 伸出，联系)
