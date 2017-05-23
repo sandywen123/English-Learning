@@ -23,3 +23,8 @@ A word A day
 - The risk control system in Amazon reduces the potential for frauds. 
 - Overcoming difficulties can help us reach our highest potential.
 - We should reach out to all our potential customers (reach out to 伸出，联系)
+
+### Consensus 一致，共识，舆论
+#### reach a consensus or get a consensus 达成共识
+- When the team members were discussing the membership program, they were unable to reach a consensus about membership fees.. 
+- Firstly, we have to maintain consensus on the core objectives of  our company.
