@@ -28,3 +28,8 @@ A word A day
 #### reach a consensus or get a consensus 达成共识
 - When the team members were discussing the membership program, they were unable to reach a consensus about membership fees.. 
 - Firstly, we have to maintain consensus on the core objectives of  our company.
+
+### Execute 1：执行 2：处死
+- AliExpress has announced that the plans for Q1 2017 have been executed and performance has been strong.. 
+- The plan for localization is waiting to be executed.
+- The code should be executed in order.
