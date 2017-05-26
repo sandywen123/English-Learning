@@ -17,7 +17,7 @@
 |`Write intensive`|写密集型|official|
 |`Coherence`|相干性|official|
 |`agnostic`|无关性<br>比如`device-agnostic`设备无关性<br>`platform-agnostic`平台无关性<br>跟`cross-device,cross-platform`意思类似|le|
-
+|`Gray released`|灰度发布|official|
 
 ## Testing
 > Reference : http://www.51testing.com/html/93/3793-3485626.html
