@@ -7,6 +7,7 @@ A word A day
 
 ### agenda 议事日程
 - Today's agenda includes a training session, group lunch, and a visit to the warehouse. 
+- Before meeting our client on Tuesday, we need to prepare the meeting agenda
 
 ### allocate 分配
 - How funds will be allocated is dependent on which budget gets approved
@@ -33,3 +34,10 @@ A word A day
 - AliExpress has announced that the plans for Q1 2017 have been executed and performance has been strong.. 
 - The plan for localization is waiting to be executed.
 - The code should be executed in order.
+
+### concern 关心 v. 关注，关心 n.
+- I was concerned that I might not finish the project in time.
+- The team had not done any research before launching this programme, so the supervisor was very concerned about the feasibility of whole project.
+- We should prepare the agenda before this meeting, my boss is very concerned about it.
+
+
