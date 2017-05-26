@@ -35,7 +35,8 @@ A word A day
 - The plan for localization is waiting to be executed.
 - The code should be executed in order.
 
-### concern 关心 v. 关注，关心 n.
+### concern 关心 v. 关注，关心 n. 
+### be concerned about || be concerned that
 - I was concerned that I might not finish the project in time.
 - The team had not done any research before launching this programme, so the supervisor was very concerned about the feasibility of whole project.
 - We should prepare the agenda before this meeting, my boss is very concerned about it.
