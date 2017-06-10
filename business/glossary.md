@@ -21,6 +21,7 @@
 |`Voucher`|购物券|是由平台发起的，但是由店家出钱的，购物券是可以跨店铺使用的，可以互惠互利|
 |`store coupon`|店铺coupon|店铺自己的coupon，只能在本店铺内使用|
 |`platform coupon`|平台coupon|平台出钱，可以在整个平台使用的coupon|
+|`backward compatible`|向下兼容|official
 
 ## Testing
 > Reference : http://www.51testing.com/html/93/3793-3485626.html
