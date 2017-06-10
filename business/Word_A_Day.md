@@ -41,4 +41,12 @@ A word A day
 - The team had not done any research before launching this programme, so the supervisor was very concerned about the feasibility of whole project.
 - We should prepare the agenda before this meeting, my boss is very concerned about it.
 
+### DRIVEN Meaning: to push forward. In some cases it can also mean motivated
+- Local partnerships（地区合作伙伴） has driven increased spending on AliExpress. 
+- Driven by Jack's vision of globalization, Binamra set off to Israel（出发去以色列） to secure a local partnership
+
+### seldom Meaning: meaning not often, rarely or infrequently
+- We seldom leave work before 9pm
+- I seldom see My Boss on Bin Jiang campus
+
 
