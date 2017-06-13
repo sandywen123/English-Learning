@@ -22,7 +22,8 @@
 |`store coupon`|店铺coupon|店铺自己的coupon，只能在本店铺内使用|
 |`platform coupon`|平台coupon|平台出钱，可以在整个平台使用的coupon|
 |`backward compatible`|向下兼容|official
-
+|`PV(page view)`|页面浏览量|PV值就是所有访问者在24小时（0点到24点）内看了某个网站多少个页面或某个网页多少次, PV是指页面刷新的次数，每一次页面刷新，就算做一次PV流量
+|`UV(unique visitor)`|独立访客数|在同一天内，UV只记录第一次进入网站的具有独立IP的访问者，在同一天内再次访问该网站则不计数
 ## Testing
 > Reference : http://www.51testing.com/html/93/3793-3485626.html
 
