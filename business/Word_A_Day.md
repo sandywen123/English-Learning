@@ -45,8 +45,12 @@ A word A day
 - Local partnerships（地区合作伙伴） has driven increased spending on AliExpress. 
 - Driven by Jack's vision of globalization, Binamra set off to Israel（出发去以色列） to secure a local partnership
 
-### seldom Meaning: meaning not often, rarely or infrequently
+### seldom Meaning:很少 meaning not often, rarely or infrequently
 - We seldom leave work before 9pm
 - I seldom see My Boss on Bin Jiang campus
 
+### anticipate Meaning:期待 regard as probable; expect or predict
+- Summer has arrived. We anticipate it to be hot and humid for the next two months
 
+### precise Meaning:精密精确  It is an adjective meaning accurate in expression or detail
+- I want to communicate precisely the values of using Aliexpress to the customers.
