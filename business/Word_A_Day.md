@@ -54,3 +54,8 @@ A word A day
 
 ### precise Meaning:精密精确  It is an adjective meaning accurate in expression or detail
 - I want to communicate precisely the values of using Aliexpress to the customers.
+
+### Classify Meaning:分类  Arrange (a group of people or things) in classes or categories according to shared qualities or characteristics
+- We classify Aliexpress brands and sellers by category.
+- My friend is such a shopaholic(购物狂) that she even classifies the wishlists into almost every category Taobao has
+- Google classifies thousands of pictures by machine learning technology.
