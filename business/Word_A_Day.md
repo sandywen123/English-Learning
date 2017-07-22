@@ -60,3 +60,6 @@ A word A day
 - We classify Aliexpress brands and sellers by category.
 - My friend is such a shopaholic(购物狂) that she even classifies the wishlists into almost every category Taobao has
 - Google classifies thousands of pictures by machine learning technology.
+
+### Without fear（害怕） and favor(好感) 公平的
+
